@@ -2,5 +2,7 @@ node_modules
 .temp
 .cache
 .idea
-docs/.vuepress/dist
+.vuepress/dist
 pnpm-lock.yaml
+yarn.lock
+yarn-error.log
