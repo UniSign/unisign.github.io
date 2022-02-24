@@ -1,0 +1,21 @@
+{
+  "name": "unisign-docs",
+  "version": "0.0.1",
+  "description": "The official document for UniSign",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [
+    "unisign",
+    "web3"
+  ],
+  "author": "JeffJing",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.35",
+    "vuepress-plugin-clean-urls": "^1.1.2",
+    "vuepress-theme-book": "^0.0.6"
+  }
+}
