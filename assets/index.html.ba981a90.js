@@ -1,0 +1,1 @@
+const t={key:"v-4a88cc84",path:"/protocol/",title:"UniSign Protocol",lang:"en-US",frontmatter:{sidebarDepth:4},excerpt:"",headers:[],git:{updatedTime:1645674199e3,contributors:[{name:"jeffjing",email:"zgayjjf@qq.com",commits:1}]},filePathRelative:"protocol/README.md"};export{t as data};
